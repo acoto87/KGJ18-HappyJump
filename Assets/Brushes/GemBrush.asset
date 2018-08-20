@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d5751a2c961df945a34295ccf5e576d, type: 3}
+  m_Name: GemBrush
+  m_EditorClassIdentifier: 
+  m_Prefabs:
+  - {fileID: 1791739321921678, guid: 1b0a42c4e219aa34bbecc991781e7dfe, type: 2}
+  - {fileID: 1764601496453218, guid: cde7636cde5d71f499620e9912e3d945, type: 2}
+  - {fileID: 1403156931928494, guid: 614b5805443398d4cad3b11dd6e2f2a1, type: 2}
+  - {fileID: 1838782956857374, guid: f5dbe8cf447e33645a54e209043b5d43, type: 2}
+  m_PerlinScale: 0.5
+  m_Z: 0
